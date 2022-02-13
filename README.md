@@ -8,6 +8,6 @@ Instructions:
 4. Open command prompt/terminal and move into the folder
 5. Run "python3 timecards.py"
 6. "calc" command will display all late/early/none/good shift times
-7. entering in a PID for an employee will display a detailed breakdown of all of their logins (approximate spelling allowed)
+7. entering in a PID for an employee will display a detailed breakdown of all of their logins (approximate spelling allowed ex. "abc12" you could just type "abc" and it will display for every employee that has a PID that contains "abc")
 8. "end" or just pressing enter with no text will end the program
 9. IF YOU DON'T END THE PROGRAM PROPERLY IT WON'T DELETE SEVERAL HELPER FILES IN THE FOLDER
