@@ -20,7 +20,7 @@ Quirks:
 
 This program is a pretty nieve take on the problem of trying to find lates and early logoffs. Thus, there are some quirks that you need to take into account when using this.
 
-"GOOD" - outputs are very trustworthy because I specifically wanted it to be fairly strict. So you can trust generally the "GOOD"s.
+"GOOD" - outputs are very trustworthy because I specifically wanted it to be fairly strict. So you can generally trust the "GOOD"s.
 
 "LATE" and "EARL" - are a little less trustworthy. The main thing you need to know is that the time output is always the earliest/latest login/logout for that day. So if, for instance someone didn't show up for their shift on time yet logged into a lab computer 5 hours after their shift, it would show "LATE" and output the time of their login 5 hours later. It "should" show up as a red "NONE" but that is hard to do for various reasons. So you should always check to make sure if the output time makes sense and if it doesn't you can always type in their PID to get all their logins for each day
 
