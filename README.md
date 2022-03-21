@@ -2,6 +2,7 @@
 Timecard program for cssd
 
 Instructions:
+0. Make sure you have Python 3 installed onto your computer, you can get it at https://www.python.org/downloads/
 1. Put timecards.py into a folder
 2. Create .xlsx (excel) files for shifts and logins
 3. Put those files into the folder with timecards.py and rename them to "Shifts.xlsx" and "Logins.xlsx"
