@@ -7,11 +7,11 @@ Instructions:
 3. Create .xlsx (excel) files for shifts and logins
 4. Put those files into the folder with timecards.py and rename them to "Shifts.xlsx" and "Logins.xlsx"
 5. Open command prompt/terminal and move into the folder (Windows - you can type "cmd" + enter into the search bar of the folder. MAC/Linux - you can right click inside the folder and click "open in terminal".)
-6. Run "python3 timecards.py"
+6. Run the program by typing "python3 timecards.py" + enter
 7. "calc" command will display all late/early/none/good shift times
 8. entering in a PID for an employee will display a detailed breakdown of all of their logins (approximate spelling allowed ex. "abc12" you could just type "abc" and it will display for every employee that has a PID that contains "abc")
-9. "end" or just pressing enter with no text will end the program
-10. IF YOU DON'T END THE PROGRAM PROPERLY IT WON'T DELETE SEVERAL HELPER FILES IN THE FOLDER
+9. "end" or just pressing enter with no text will end the program properly
+10. If you don't end the program properly it won't delete helper files (see Quirks section)
 
 
 
