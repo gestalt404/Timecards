@@ -14,6 +14,8 @@ Instructions:
 10. IF YOU DON'T END THE PROGRAM PROPERLY IT WON'T DELETE SEVERAL HELPER FILES IN THE FOLDER
 
 
+
+
 Quirks:
 
 This program is a pretty nieve take on the problem of trying to find lates and early logoffs. Thus, there are some quirks that you need to take into account when using this.
