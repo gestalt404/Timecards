@@ -1,17 +1,17 @@
 # Timecards
-Timecard program for cssd
+A timecard helper program for Pitt cssd
 
 Instructions:
-0. Make sure you have Python 3 installed onto your computer, you can get it at https://www.python.org/downloads/
-1. Put timecards.py into a folder
-2. Create .xlsx (excel) files for shifts and logins
-3. Put those files into the folder with timecards.py and rename them to "Shifts.xlsx" and "Logins.xlsx"
-4. Open command prompt/terminal and move into the folder
-5. Run "python3 timecards.py"
-6. "calc" command will display all late/early/none/good shift times
-7. entering in a PID for an employee will display a detailed breakdown of all of their logins (approximate spelling allowed ex. "abc12" you could just type "abc" and it will display for every employee that has a PID that contains "abc")
-8. "end" or just pressing enter with no text will end the program
-9. IF YOU DON'T END THE PROGRAM PROPERLY IT WON'T DELETE SEVERAL HELPER FILES IN THE FOLDER
+1. Make sure you have Python 3 installed onto your computer, you can get it at https://www.python.org/downloads/
+2. Put timecards.py into a folder
+3. Create .xlsx (excel) files for shifts and logins
+4. Put those files into the folder with timecards.py and rename them to "Shifts.xlsx" and "Logins.xlsx"
+5. Open command prompt/terminal and move into the folder
+6. Run "python3 timecards.py"
+7. "calc" command will display all late/early/none/good shift times
+8. entering in a PID for an employee will display a detailed breakdown of all of their logins (approximate spelling allowed ex. "abc12" you could just type "abc" and it will display for every employee that has a PID that contains "abc")
+9. "end" or just pressing enter with no text will end the program
+10. IF YOU DON'T END THE PROGRAM PROPERLY IT WON'T DELETE SEVERAL HELPER FILES IN THE FOLDER
 
 
 Quirks:
