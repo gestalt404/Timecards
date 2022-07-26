@@ -1,7 +1,7 @@
 # Timecards
 A timecard helper program for Pitt cssd
 
-Instructions:
+### Instructions:
 1. Make sure you have Python 3 installed onto your computer, you can get it at https://www.python.org/downloads/
 2. Put timecards.py into a folder
 3. Create .xlsx (excel) files for shifts and logins
@@ -16,7 +16,7 @@ Instructions:
 
 
 
-Quirks:
+### Quirks:
 
 This program is a pretty nieve take on the problem of trying to find lates and early logoffs. Thus, there are some quirks that you need to take into account when using this.
 
