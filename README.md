@@ -1,5 +1,5 @@
 # Timecards
-A timecard helper program for Pitt cssd
+A timecard verification program for Pitt cssd
 
 ### Instructions:
 1. Make sure you have Python 3 installed onto your computer, you can get it at https://www.python.org/downloads/
